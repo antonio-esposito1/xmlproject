@@ -1,0 +1,6 @@
+<device type="datacenter-switch">
+ <vendor>
+  <model>Nexus</model>
+  <osver>NXOS</osver>
+ </vendor>
+</device>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<autori>
+ <autore>
+  <nome>Antonio</nome>
+  <cognome>Esposito</cognome>
+ </autore>
+ <autore>
+  <nome>Aurora</nome>
+  <cognome>Esposito</cognome>
+ </autore>
+ <autore>
+  <nome>Laura</nome>
+  <cognome>Maggiore</cognome>
+ </autore>
+</autori>
